@@ -1,2 +1,2 @@
-qq"HELLO WORLD"
+"HELLO WORLD"
 Happy New Year
