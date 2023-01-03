@@ -1,0 +1,24 @@
+From 001ba3478928a9b37550d5e07a6026fcc06b849e Mon Sep 17 00:00:00 2001
+From: Sano7707 <sanasar.hambardzumyan@gmail.com>
+Date: Tue, 3 Jan 2023 22:21:43 +0400
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0d02bd4..d63f0ae 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-a
+-b
++ab
++ba
+ c
+ d
+ e
+-- 
+2.32.1 (Apple Git-133)
+
